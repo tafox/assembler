@@ -1,3 +1,4 @@
-.word 1
+.word 0x1 
 .word 2
-.word 3
+.word !jll
+.word 123bdb

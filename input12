@@ -1,0 +1,5 @@
+.word fun
+.word 4
+fun:
+.word 10
+.word fun

@@ -1,0 +1,4 @@
+label:
+.word 4
+fun: .word 5
+lastline:

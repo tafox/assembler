@@ -1,4 +1,1 @@
-.word 0x00000001
-.word 2
-.word 5
-.word 1230912
+123x: .word 1
